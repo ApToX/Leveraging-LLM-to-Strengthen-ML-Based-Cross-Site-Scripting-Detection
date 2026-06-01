@@ -1,0 +1,17 @@
+[
+  {
+    "original_url": "https://arxiv.org/html/2504.21045v1/extracted/6395235/figures/approach.png",
+    "local_path": "attachments/figures/figure_1_approach.png",
+    "file_type": "figure"
+  },
+  {
+    "original_url": "https://arxiv.org/html/2504.21045v1/extracted/6395235/figures/before-obfuscation-results.png",
+    "local_path": "attachments/figures/figure_2_before-obfuscation-results.png",
+    "file_type": "figure"
+  },
+  {
+    "original_url": "https://arxiv.org/html/2504.21045v1/extracted/6395235/figures/after-obfuscation-results.png",
+    "local_path": "attachments/figures/figure_3_after-obfuscation-results.png",
+    "file_type": "figure"
+  }
+]
